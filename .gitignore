@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+/data/
+outputs/
+cifar-100-python/
+dinov3-*/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.tar.gz
+.cache/
