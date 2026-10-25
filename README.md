@@ -13,6 +13,10 @@ To mitigate confirmation bias, we introduce the Geometric-Semantic Consensus (GS
 Finally, a Noise-Aware Supervised Contrastive (NASC) loss is introduced to convert filtered noise into repulsion signals, effectively compressing intra-class variance.
 Extensive experiments demonstrate that DGCL achieves a new state-of-the-art average accuracy of 91.73\% on three web-supervised benchmark datasets, surpassing the previous best method by 1.63 percentage points.
 
+#Proceeding
+Xinyi Guo, Yiwei Lu, Tao Yan, "Robust Webly Supervised Fine-Grained Recognition via Decoupled Global-Local Fusion and Geometric-Semantic Consensus", Neural Networks, vol.205, no.109571, Jan. 2027. 
+Url: https://www.sciencedirect.com/science/article/abs/pii/S0893608026010282
+
 # Quick start
 
 This repository provides the paper's **two-stage reproduction pipeline**. Stage 1 fine-tunes a vision backbone with LoRA and extracts frozen PSM features. Stage 2 trains a classifier with Dual-Stream FBP, GSC, and NASC on those features. Dataset images and pretrained weights are not included.
