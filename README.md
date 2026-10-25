@@ -15,7 +15,7 @@ Extensive experiments demonstrate that DGCL achieves a new state-of-the-art aver
 
 ## Proceeding
 Xinyi Guo, Yiwei Lu, Tao Yan, "Robust Webly Supervised Fine-Grained Recognition via Decoupled Global-Local Fusion and Geometric-Semantic Consensus", Neural Networks, vol.205, no.109571, Jan. 2027. 
-Url: https://www.sciencedirect.com/science/article/abs/pii/S0893608026010282
+https://www.sciencedirect.com/science/article/abs/pii/S0893608026010282
 
 # Quick start
 
